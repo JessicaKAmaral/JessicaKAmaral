@@ -1,20 +1,22 @@
 
-<h2> Olá <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
+<h2> Olá <Dev's />! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 
-<div align="center" width="50">
 
-<img src="https://i.imgur.com/dTYwdG1.gif" alt="Welcome!" width="300"/>
 
-</div>
-
-Ei! Aproveite a visita ao meu Perfil do Github.<br>
+Aproveite a visita ao meu Perfil do Github.<br>
 Sou nova aqui e ainda estou aprendendo a utilizar a plataforma. <br>
 Fique a vontade para visitar os meus projetos, apontar erros e sugerir soluções.<br>
 As melhorias aqui são sempre bem vindas! 
 
 Bora Codar! 😊
-
-[Snake animation](https://github.com/JessicaKAmaral/JessicaKAmaral/blob/output/github-contribution-grid-snake.svg)
+<div>
+  <a href="https://github.com/JessicaKAmaral">
+  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=JessicaKAmaral&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  
+  
+  
+  
+ [Snake animation](https://github.com/JessicaKAmaral/JessicaKAmaral/blob/output/github-contribution-grid-snake.svg)
 
 
 <i>Quer me conhecer? Essas são as minhas outras redes:</i><br>
