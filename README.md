@@ -6,9 +6,7 @@
 Aproveite a visita ao meu Perfil do Github.<br>
 Sou nova aqui e ainda estou aprendendo a utilizar a plataforma. <br>
 Fique a vontade para visitar os meus projetos, apontar erros e sugerir soluções.<br>
-As melhorias aqui são sempre bem vindas! 
-
-Bora Codar! 😊
+As melhorias aqui são sempre bem vindas!😊
 <div>
   <a href="https://github.com/JessicaKAmaral">
   <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=JessicaKAmaral&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
