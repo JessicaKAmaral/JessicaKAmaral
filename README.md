@@ -17,7 +17,8 @@ Bora Codar! 😊
   <img height="180em"   align="center" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif"/>
  
 
-  
+  <div>
+    
   
  <i> Vamos nos conhecer? Essas são as minhas outras redes: </i>
  <div>
