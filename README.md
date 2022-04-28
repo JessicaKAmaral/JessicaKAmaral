@@ -4,7 +4,7 @@
 
 
 Aproveite a visita ao meu Perfil do Github.<br>
-Sou nova aqui e ainda estou aprendendo a utilizar a plataforma. <br>
+A cada dia aprendendo mais com essa plataforma. <br>
 Fique a vontade para visitar os meus projetos, apontar erros e sugerir soluções.<br>
 As melhorias aqui são sempre bem vindas!😊
 <div>
